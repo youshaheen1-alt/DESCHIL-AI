@@ -1,0 +1,47 @@
+{
+  "app": {
+    "name": "DESCHIL",
+    "tagline": "Unified AI automation across web, Telegram, WhatsApp, and Discord."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "bots": "Bots",
+    "providers": "AI Providers",
+    "users": "Users",
+    "signIn": "Sign in",
+    "signUp": "Sign up",
+    "signOut": "Sign out"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "displayName": "Display name (optional)",
+    "signIn": "Sign in",
+    "signUp": "Create account",
+    "haveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "welcomeBack": "Welcome back",
+    "createAccount": "Create your account"
+  },
+  "dashboard": {
+    "title": "Command Console",
+    "subtitle": "Run any automation from here. The same commands are available on your bots.",
+    "runCommand": "Run command",
+    "yourAccount": "Your account",
+    "roles": "Roles"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "landing": {
+    "cta": "Get started",
+    "learnMore": "Learn more",
+    "feature1Title": "One backend, four surfaces",
+    "feature1Body": "The web dashboard, Telegram, WhatsApp, and Discord all execute the same commands.",
+    "feature2Title": "Bring your own AI",
+    "feature2Body": "Plug in OpenAI, Anthropic, Gemini, OpenRouter, Groq, DeepSeek, Mistral, xAI — swap anytime.",
+    "feature3Title": "Made for teams",
+    "feature3Body": "Role-based access, audit logs, Arabic and English out of the box."
+  }
+}

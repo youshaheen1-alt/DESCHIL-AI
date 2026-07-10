@@ -1,0 +1,47 @@
+{
+  "app": {
+    "name": "DESCHIL",
+    "tagline": "أتمتة ذكاء اصطناعي موحدة عبر الويب وتيليجرام وواتساب وديسكورد."
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "bots": "البوتات",
+    "providers": "مزودو الذكاء الاصطناعي",
+    "users": "المستخدمون",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "signOut": "تسجيل الخروج"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "displayName": "الاسم الظاهر (اختياري)",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "haveAccount": "لديك حساب بالفعل؟",
+    "noAccount": "ليس لديك حساب؟",
+    "welcomeBack": "مرحبًا بعودتك",
+    "createAccount": "أنشئ حسابك"
+  },
+  "dashboard": {
+    "title": "وحدة الأوامر",
+    "subtitle": "شغّل أي أتمتة من هنا. نفس الأوامر متاحة على البوتات.",
+    "runCommand": "تشغيل أمر",
+    "yourAccount": "حسابك",
+    "roles": "الأدوار"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية"
+  },
+  "landing": {
+    "cta": "ابدأ الآن",
+    "learnMore": "اعرف المزيد",
+    "feature1Title": "خلفية واحدة، أربع واجهات",
+    "feature1Body": "لوحة التحكم وتيليجرام وواتساب وديسكورد كلها تنفذ نفس الأوامر.",
+    "feature2Title": "استخدم مزودك المفضل",
+    "feature2Body": "أضف OpenAI أو Anthropic أو Gemini أو OpenRouter أو Groq أو DeepSeek أو Mistral أو xAI — بدّل متى شئت.",
+    "feature3Title": "مصمم للفرق",
+    "feature3Body": "صلاحيات حسب الدور، سجل تدقيق، ودعم كامل للعربية والإنجليزية."
+  }
+}

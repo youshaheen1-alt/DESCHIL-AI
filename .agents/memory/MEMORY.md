@@ -1,0 +1,1 @@
+- [DESCHIL-AI project](deschil-ai.md) — standalone TanStack Start app audited, repaired, and pushed to GitHub; lives in deschil-app/ not the pnpm workspace.
