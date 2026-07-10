@@ -23,9 +23,6 @@ const OPTIONAL_VARS = [
   "DEFAULT_AI_PROVIDER",
   "DEFAULT_AI_MODEL",
   "LOG_LEVEL",
-  "SUPABASE_URL",
-  "SUPABASE_ANON_KEY",
-  "SUPABASE_SERVICE_ROLE_KEY",
 ] as const;
 
 for (const v of REQUIRED_VARS) {
@@ -39,7 +36,7 @@ for (const v of OPTIONAL_VARS) {
   }
 }
 
-// ── Command registry ──────────────────────────────────────────────────────────
+// ── Command registry ────────────────────────────────────────────────────────
 ensureCommandsReady();
 
 log.info("server.boot", {
@@ -60,7 +57,7 @@ bootstrapDatabase().catch((err) => {
   });
 });
 
-// ── Graceful shutdown ─────────────────────────────────────────────────────────
+// ── Graceful shutdown ────────────────────────────────────────────────────────
 if (typeof process !== "undefined" && typeof process.on === "function") {
   let shuttingDown = false;
 
